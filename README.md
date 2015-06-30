@@ -10,7 +10,7 @@ Getting started
 ----------------
 1. Install Opauth-Reddit:
    ```bash
-   composer require opauth/reddit
+   composer require rnewton/opauth_reddit
    ```
 
 2. Create a Reddit app https://www.reddit.com/prefs/apps/
