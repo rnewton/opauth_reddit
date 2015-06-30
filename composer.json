@@ -1,7 +1,7 @@
 {
     "name": "rnewton/opauth_reddit",
     "description": "Reddit strategy for Opauth",
-    "keywords": ["authentication","auth","reddit"],
+    "keywords": ["authentication","opauth","auth","reddit"],
     "homepage": "http://opauth.org",
     "license": "MIT",
     "authors": [
